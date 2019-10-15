@@ -1,0 +1,2 @@
+﻿  ConsoleApplication4.cpp
+c:\users\lenovo\desktop\calculator\lyyrhf\consoleapplication4\consoleapplication4\consoleapplication4.cpp(118): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include ""”?
